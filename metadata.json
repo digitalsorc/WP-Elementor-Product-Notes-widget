@@ -1,0 +1,5 @@
+{
+  "name": "WP Elementor Product Notes",
+  "description": "A generator for a WordPress plugin that adds an Elementor widget for product notes in WooCommerce.",
+  "requestFramePermissions": []
+}
